@@ -1,0 +1,13 @@
+package com.raizes.nordeste_api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NordesteApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(NordesteApiApplication.class, args);
+	}
+
+}

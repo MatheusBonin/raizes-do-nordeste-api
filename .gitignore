@@ -1,0 +1,7 @@
+*.zip
+target/
+nordeste-api/target/
+.idea/
+.vscode/
+*.log
+.env
